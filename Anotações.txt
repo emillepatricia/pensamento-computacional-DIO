@@ -1,0 +1,5 @@
+Introdução à programação e pensamento computacional
+Generalização/ Abstração
+Abstrair – observar, um ou mais elementos, avaliando características e propriedades em separado
+Abstração – Processo intelectual de isolamento de um objeto da realidade
+Generalizar -  tornar-se geral, mais amplo, extensão
